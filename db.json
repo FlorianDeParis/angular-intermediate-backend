@@ -51,6 +51,86 @@
       "imageUrl": "https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg",
       "createdDate": "new Date()",
       "snaps": 101
+    },
+    {
+      "id": "53024434",
+      "title": "Le Louvre sous la neige",
+      "description": "Le musée du Louvre est encore plus magnifique sous la neige, offrant un contraste spectaculaire avec sa pyramide de verre.",
+      "imageUrl": "https://images.unsplash.com/photo-1548427113-abf8c83bceda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-21",
+      "snaps": 1200
+    },
+    {
+      "id": "d4661f30",
+      "title": "La Seine au coucher du soleil",
+      "description": "Un coucher du soleil magnifique vu depuis les quais de la Seine, avec la Tour Eiffel en arrière-plan.",
+      "imageUrl": "https://images.unsplash.com/photo-1636211255016-b0a8c94a977a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-11-22",
+      "snaps": 1500
+    },
+    {
+      "id": "5b18f89b",
+      "title": "Les Champs-Élysées illuminés",
+      "description": "Les Champs-Élysées sont magnifiquement décorées pour les fêtes, avec des lumières scintillantes qui enchantent les passants.",
+      "imageUrl": "https://images.unsplash.com/photo-1548093275-b47dd9f08e5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-16",
+      "snaps": 1800
+    },
+    {
+      "id": "f1a539eb",
+      "title": "Montmartre en hiver",
+      "description": "Les rues de Montmartre sont charmantes en hiver, avec de petites cafés et des artistes dessinant des portraits sur la place du Tertre.",
+      "imageUrl": "https://images.unsplash.com/photo-1619912730131-7e1c399eb0bf?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-11-30",
+      "snaps": 1100
+    },
+    {
+      "id": "30900014",
+      "title": "La Tour Eiffel vue du Trocadéro",
+      "description": "Une vue imprenable sur la Tour Eiffel depuis les jardins du Trocadéro, avec la ville de Paris en arrière-plan.",
+      "imageUrl": "https://images.unsplash.com/photo-1584482018977-a09bff9a33ad?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-11",
+      "snaps": 2000
+    },
+    {
+      "id": "5f829131",
+      "title": "Le marché de Noël de Notre-Dame",
+      "description": "Le marché de Noël près de la cathédrale Notre-Dame offre une atmosphère féerique avec ses chalets en bois et ses décorations lumineuses.",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1701454740269-633e9e0a3912?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-02",
+      "snaps": 950
+    },
+    {
+      "id": "35ce732b",
+      "title": "Le jardin des Tuileries au printemps",
+      "description": "Le jardin des Tuileries est le lieu parfait pour une promenade printanière, avec ses fontaines et ses sculptures.",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1694475105437-5e97dcc7e520?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-05-15",
+      "snaps": 1300
+    },
+    {
+      "id": "3cedaf17",
+      "title": "La vue depuis le Sacré-Cœur",
+      "description": "Une vue spectaculaire sur tout Paris depuis le sommet de la basilique du Sacré-Cœur, à Montmartre.",
+      "imageUrl": "https://images.unsplash.com/photo-1622664291095-80ab3de96b7a?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-04",
+      "snaps": 1600
+    },
+    {
+      "id": "6c910042",
+      "title": "Paris la nuit depuis la Seine",
+      "description": "Un bateau-mouche navigue sur la Seine, avec les lumières de la ville qui se reflètent sur l'eau et créent une ambiance magique.",
+      "imageUrl": "https://images.unsplash.com/photo-1636554610979-d769777c7863?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-12-03",
+      "snaps": 1400
+    },
+    {
+      "id": "eb5d4307",
+      "title": "Les jardins du Luxembourg en automne",
+      "description": "Les couleurs automnales envahissent les jardins du Luxembourg, avec des feuilles rouges et dorées qui tombent lentement des arbres.",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697730379810-6f3918f7c463?q=80&w=2041&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdDate": "2024-10-20",
+      "snaps": 1100
     }
   ]
 }
