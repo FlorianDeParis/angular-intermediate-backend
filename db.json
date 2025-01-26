@@ -15,7 +15,7 @@
       "description": "Un endroit magnifique pour les randonnées.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Three_Rock_Mountain_Southern_Tor.jpg/2880px-Three_Rock_Mountain_Southern_Tor.jpg",
       "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 6,
+      "snaps": 13,
       "location": "la montagne"
     },
     {
@@ -74,7 +74,8 @@
       "description": "Les Champs-Élysées sont magnifiquement décorées pour les fêtes, avec des lumières scintillantes qui enchantent les passants.",
       "imageUrl": "https://images.unsplash.com/photo-1548093275-b47dd9f08e5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdDate": "2024-12-16",
-      "snaps": 1800
+      "snaps": 1800,
+      "location": "Les Champs Elysées"
     },
     {
       "id": "f1a539eb",
@@ -131,6 +132,24 @@
       "imageUrl": "https://plus.unsplash.com/premium_photo-1697730379810-6f3918f7c463?q=80&w=2041&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdDate": "2024-10-20",
       "snaps": 1100
+    },
+    {
+      "title": "Le Grand Rex",
+      "description": "Un des plus grands cinémas de Paris",
+      "imageUrl": "https://www.legrandrex.com/mobile/images/histoire/histoire19.jpg",
+      "location": "Station Bonne Nouvelle",
+      "snaps": 1,
+      "createdAt": "2025-01-26T14:09:18.717Z",
+      "id": "d834997d"
+    },
+    {
+      "id": "83cea1d1",
+      "title": "La Sorbonne",
+      "description": "Une des plus prestigieuses universités de Paris",
+      "imageUrl": "https://www.comitecolbert.com/app/uploads/2020/12/immersion-cour-d-honneur-sorbonne-copyright-chancellerie-des-universites-de-paris-1440x0-c-center.jpg",
+      "location": "Paris V",
+      "createdAt": "2025-01-26T14:14:59.070Z",
+      "snaps": 1
     }
   ]
 }
